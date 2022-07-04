@@ -68,10 +68,6 @@ if (!empty($_POST['old_password'])) {
 						<td><?=$username?></td>
 					</tr>
 					<tr>
-						<td>Password:</td>
-						<td><?=$password?></td>
-					</tr>
-					<tr>
 						<td>Email:</td>
 						<td><?=$email?></td>
 					</tr>
